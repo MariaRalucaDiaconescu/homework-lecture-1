@@ -1,0 +1,3 @@
+student name: Maria Raluca Diaconescu
+student number: 683265
+student class: IT1B
