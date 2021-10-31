@@ -1,3 +1,4 @@
-student name: Maria Raluca Diaconescu
-student number: 683265
-student class: IT1B
+Student name: Maria Raluca Diaconescu
+Student number: 683265
+Student class: IT1B
+URL student GitHub repository:  https://github.com/MariaRalucaDiaconescu
